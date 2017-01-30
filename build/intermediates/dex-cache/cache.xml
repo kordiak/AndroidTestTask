@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/kordiaczynski/Desktop/Kod/TestTask/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/kordiaczynski/Desktop/Kod/TestTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_e64573fc8763457f2821e6ff93ed3784e02d9f7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kordiaczynski/Desktop/Kod/TestTask/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/kordiaczynski/Desktop/Kod/TestTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_dd8c4bb008f85a0f6d00c8d7f5be832c00733c9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kordiaczynski/Desktop/Kod/TestTask/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d8a9b957b9f828748e0818ac07fd803e7e29df33">
+        <dex dex="/Users/kordiaczynski/Desktop/Kod/TestTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8e4e22c7708003e43d5a72c4b46e84c48378db9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kordiaczynski/Desktop/Kod/TestTask/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/kordiaczynski/Desktop/Kod/TestTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_3b6a5fc90c8b90305d64a480104d1fa2de7b3e48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kordiaczynski/Desktop/Kod/TestTask/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/kordiaczynski/Desktop/Kod/TestTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_e2a1df1e5ff96169b1a087369777632fca702afb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kordiaczynski/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.0.12/277d8a8184f92951355d8ddbcac855bf8f12bc5e/rxjava-1.0.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="277d8a8184f92951355d8ddbcac855bf8f12bc5e">
+        <dex dex="/Users/kordiaczynski/Desktop/Kod/TestTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.0.12_b01f7db4f66a31749d3eca0a2ad6900bc7fdfcc6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kordiaczynski/Desktop/Kod/TestTask/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="cde8fe52c6a6a0251b648bdf5ab5641baf86860a">
+        <dex dex="/Users/kordiaczynski/Desktop/Kod/TestTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ad0f9c863be7d68ea4bf60b4c2f7f9a6dbe84450/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kordiaczynski/Desktop/Kod/TestTask/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/kordiaczynski/Desktop/Kod/TestTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_c6b53a70eeeb3219c4b46592a1199150ea7f539c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kordiaczynski/Desktop/Kod/TestTask/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/kordiaczynski/Desktop/Kod/TestTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_2a569566e56a5c87626c49d6112ec68590ff1e91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kordiaczynski/SDKS/SDK/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/kordiaczynski/Desktop/Kod/TestTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_0935a535e76c3c58ab896bfd4f1efb5e444c3bef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kordiaczynski/.gradle/caches/modules-2/files-2.1/io.reactivex/rxandroid/0.25.0/866b539d3ae58abbd47880f243c02f914fec5cda/rxandroid-0.25.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="866b539d3ae58abbd47880f243c02f914fec5cda">
+        <dex dex="/Users/kordiaczynski/Desktop/Kod/TestTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxandroid-0.25.0_da386d9fefe3b99e3b7ac6b22bb5df9ba536741d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kordiaczynski/Desktop/Kod/TestTask/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/kordiaczynski/Desktop/Kod/TestTask/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_81a47634ba2fcd9546c076acda49a8796041a475/classes.dex" />
+    </item>
+
+</items>

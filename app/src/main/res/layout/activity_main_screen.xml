@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="pl.kordiaczynski.testTask.MainScreen">
+
+
+    <FrameLayout
+        android:id="@+id/slot"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="?actionBarSize">
+
+    </FrameLayout>
+
+
+    <android.support.design.widget.CollapsingToolbarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:layout_gravity="end"
+            android:background="@color/colorToolBarDark"
+            android:paddingRight="0dp" />
+
+        <LinearLayout
+            android:id="@+id/BIGBUTTON"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="?actionBarSize"
+            android:layout_gravity="left"
+            android:orientation="vertical"
+            android:background="@android:color/white"
+            android:divider="@android:drawable/divider_horizontal_dim_dark"
+            android:showDividers="middle"
+            android:visibility="gone">
+
+            <Button
+                android:text="@string/header_news"
+                android:id="@+id/B_GotoNews"
+                android:gravity="center_vertical"
+                android:paddingLeft="@dimen/header_padding"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/header_button"
+                android:height="?attr/actionBarSize"
+                android:textAppearance="@style/MenuHeaderStyle"
+                />
+
+            <Button
+                android:id="@+id/B_GotoScores"
+                android:paddingLeft="@dimen/header_padding"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:background="@drawable/header_button"
+                android:text="@string/header_scores"
+                android:height="?attr/actionBarSize"
+                android:textAppearance="@style/MenuHeaderStyle"
+                 />
+
+            <Button
+                android:id="@+id/B_GotoStandings"
+                android:paddingLeft="@dimen/header_padding"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:height="?attr/actionBarSize"
+                android:gravity="center_vertical"
+                android:background="@drawable/header_button"
+                android:text="@string/header_standings"
+                android:textAppearance="@style/MenuHeaderStyle"
+
+                 />
+        </LinearLayout>
+
+
+    </android.support.design.widget.CollapsingToolbarLayout>
+
+
+</android.support.design.widget.CoordinatorLayout>

@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="pl.kordiaczynski.testTask.MainScreen">
+    <!--android:icon="@android:drawable/arrow_down_float"-->
+    <item android:id="@+id/action_search"
+        android:title=""
+        app:showAsAction="always"
+        app:actionLayout="@layout/menu_togglebutton_view"
+        />
+</menu>

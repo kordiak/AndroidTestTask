@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3FA1B5</color>
+    <color name="colorPrimaryDark">#107FA0</color>
+    <color name="colorAccent">#FF2021</color>
+    <color name="colorToolBarDark">#5E5E5E</color>
+    <color name="colorToolBarBright">#437DA6</color>
+    <color name="colorToolBarDate">#7B8B5B</color>
+    <color name="colorToolBarBrightDim">#033D55</color>
+    <color name="backgroundColor">@android:color/darker_gray</color>
+    <color name="backgroundColorUnevenField">#ECECEC</color>
+    <color name="colorClubScorer">#063567</color>
+
+</resources>

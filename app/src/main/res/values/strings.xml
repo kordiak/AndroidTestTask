@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="header_news">Flickr</string>
+    <string name="header_scores">Todo one</string>
+    <string name="header_standings">Todo two</string>
+    <string name="empty">!!!EMPTY FIELD!!!</string>
+    <string name="long_empty">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel molestie eros. Vestibulum pellentesque vel ante non sodales. In non pulvinar turpis. Nulla facilisi. Quisque id elementum lacus. Mauris quis faucibus nisi. Nulla facilisi. Donec a ex a neque dapibus egestas. Donec semper lacus sed egestas pretium. Sed elementum vel neque a scelerisque. Duis at magna nibh.</string>
+    <string name="message_loading_flickr">Loading Flickr...</string>
+    <string name="message_loading_one">Loading other data - TODO...</string>
+    <string name="message_loadgin_two">Loading other data - TODO...</string>
+    <string name="message_loading_unable_to_download_news">"Internal error - Unable do load data"</string>
+    <string name="message_loading_unable_to_scores">"Internal error - Unable do load data"</string>
+    <string name="message_loading_unable_to_standings">"Internal error - Unable do load data"</string>
+
+</resources>
